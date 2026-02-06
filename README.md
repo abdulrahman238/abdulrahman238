@@ -1,43 +1,39 @@
 ## Hi, I'm Abdul Rahman Kassim 👋  
 **Data Analyst | Data Engineer**
-
-I work with data end-to-end — from raw ingestion to clean insights and decision-ready dashboards.
-
+Data Analyst with strong data engineering skills. Proficient in Excel, SQL, Power BI, and Python. Experienced in data cleaning,
 ---
-
 ### 🧰 Tools & Technologies
-
 **📊 Spreadsheets**
-- Excel (Advanced)
-- Google Sheets
-
+- Excel: Pivot Tables, lookup functions (VLOOKUP/XLOOKUP), aggregate functions, IF logic, Conditional Formatting
+- Google Sheets : Data cleaning, aggregate functions, lookup functions, pivot tables, collaboration features
 **🗄️ Databases & SQL**
 - SQL
 - MySQL
 - PostgreSQL
 - Oracle
-
 **🐍 Python & Libraries**
 - Python  
   - Pandas  
   - NumPy  
   - Matplotlib  
-
 **📈 BI & Analytics**
-- Power BI
-
+- ### 📈 Business Intelligence
+- Power BI: Data modeling, DAX (measures & calculated columns), interactive dashboards, report automation, data visualization  
+- Power BI Advanced Features: Data Gateway, Row-Level Security (RLS), Object-Level Security (OLS), deployment pipelines  
 **🏗️ Data Engineering**
-- Microsoft Fabric  
+- Microsoft Fabric 
   - Data Pipelines  
-  - Lakehouse  
-  - Data Warehouse  
-
+  - Lakehouse
+  - ETL workflows
+  - Data Warehouse
+  - automation 
 ---
-
 ### 🚀 What I Do
-- Clean, transform, and model messy data  
-- Build automated data pipelines  
-- Design dashboards that tell clear business stories  
-- Turn data into insights decision-makers can trust  
-
+## 💡 What I Do
+- Clean, transform, and model messy data using Excel, Google Sheets, Python, and SQL  
+- Build automated ETL pipelines and deploy them with Microsoft Fabric  
+- Design and maintain dashboards in Power BI with secure access (RLS, OLS, Data Gateway)  
+- Analyze data and create reports that turn raw numbers into actionable insights  
+- Automate repetitive tasks to save time and improve accuracy  
+- Support business decision-making through storytelling with data
 📫 **Open to opportunities, collaborations, and data projects**
