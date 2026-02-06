@@ -29,11 +29,11 @@ Data Analyst with strong data engineering skills. Proficient in Excel, SQL, Powe
   - automation 
 ---
 ### 🚀 What I Do
-## 💡 What I Do
 - Clean, transform, and model messy data using Excel, Google Sheets, Python, and SQL  
 - Build automated ETL pipelines and deploy them with Microsoft Fabric  
 - Design and maintain dashboards in Power BI with secure access (RLS, OLS, Data Gateway)  
 - Analyze data and create reports that turn raw numbers into actionable insights  
 - Automate repetitive tasks to save time and improve accuracy  
 - Support business decision-making through storytelling with data
+  
 📫 **Open to opportunities, collaborations, and data projects**
