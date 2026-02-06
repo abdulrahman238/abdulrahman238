@@ -1,6 +1,8 @@
 ## Hi, I'm Abdul Rahman Kassim 👋  
 **Data Analyst | Data Engineer**
-Data Analyst with strong data engineering skills. Proficient in Excel, SQL, Power BI, and Python. Experienced in data cleaning,
+Designed and deployed a Power BI dashboard to track weekly sales trends, integrating multiple data sources and applying data modeling, reducing analysis time from 3 hours to 20 minutes.
+Cleaned, transformed, and automated a 10,000-row dataset in Excel and Power Query, preparing it for downstream analytics and ETL pipelines.
+Developed SQL queries and data pipelines to join 5 different tables, generate insights, and support management reporting and decision-making.
 ---
 ### 🧰 Tools & Technologies
 **📊 Spreadsheets**
