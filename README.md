@@ -37,8 +37,8 @@ I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric** to clean, m
 - Delivered actionable insights for **peak travel hours, ticket pricing, and operational efficiency**  
 
 **Repository Link:** https://github.com/abdulrahman238/Train-Ticket-Insights.git
-**Screenshots:** ![Dashboard1](link) ![Dashboard2](link)  
 
+**Screenshots:** ![Dashboard1](https://github.com/abdulrahman238/Train-Ticket-Insights.git)
 ---
 
 ### 2️⃣ Customer Churn Analysis – SQL | Python | Power BI
