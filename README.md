@@ -1,42 +1,14 @@
-## Hi, I'm Abdul Rahman Kassim 👋  
-**Data Analyst | Data Engineer**
-Designed and deployed a Power BI dashboard to track weekly sales trends, integrating multiple data sources and applying data modeling, reducing analysis time from 3 hours to 20 minutes.Cleaned, transformed, and automated a 10,000-row dataset in Excel and Power Query, preparing it for downstream analytics and ETL pipelines.Developed SQL queries and data pipelines to join 5 different tables, generate insights, and support management reporting and decision-making.
----
+##Abdul Rahman Kassim 👋
+Data Analyst | Data Engineer | Power BI, SQL, Excel, Microsoft Fabric 
+I’m a mid-level Data Analyst with hands-on experience delivering end-to-end analytics solutions. I specialize in transforming raw and messy data into actionable business insights, building automated reports, and designing interactive dashboards that support operational and strategic decisions.
+I work across Excel, SQL, Python, Power BI, and Microsoft Fabric to clean, model, and analyze data. I communicate findings clearly to both technical and non-technical stakeholders, turning numbers into business impact.
 
 ### 🧰 Tools & Technologies
-**📊 Spreadsheets**
-- Excel: Pivot Tables, lookup functions (VLOOKUP/XLOOKUP), aggregate functions, IF logic, Conditional Formatting
-- Google Sheets : Data cleaning, aggregate functions, lookup functions, pivot tables, collaboration features
 
-  
-**🗄️ Databases & SQL**
-- SQL
-- MySQL
-- PostgreSQL
-- Oracle
-  
-**🐍 Python & Libraries**
-- Python  
-  - Pandas  
-  - NumPy  
-  - Matplotlib
- 
-    
-**📈 BI & Analytics**
-- ### 📈 Business Intelligence
-- Power BI: Data modeling, DAX (measures & calculated columns), interactive dashboards, report automation, data visualization  
-- Power BI Advanced Features: Data Gateway, Row-Level Security (RLS), Object-Level Security (OLS), deployment pipelines
-
-  
-**🏗️ Data Engineering**
-- Microsoft Fabric 
-  - Data Pipelines  
-  - Lakehouse
-  - ETL workflows
-  - Data Warehouse
-  - automation 
----
-
+Analytics & BI: Power BI (DAX, KPIs, RLS, OLS, Data Gateway), dashboards, reporting automation
+Data Processing: Excel (Pivot Tables, VLOOKUP/XLOOKUP, IF logic, Conditional Formatting, Power Query), Google Sheets, Python (Pandas, NumPy, Matplotlib)
+Databases & SQL: SQL, MySQL, PostgreSQL, Oracle
+Data Engineering: Microsoft Fabric, Lakehouse, Data Pipelines, ETL workflows, Data Warehousing
 
 ### 🚀 What I Do
 - Clean, transform, and model messy data using Excel, Google Sheets, Python, and SQL  
