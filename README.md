@@ -11,15 +11,20 @@ Designed and deployed a Power BI dashboard to track weekly sales trends, integra
 - MySQL
 - PostgreSQL
 - Oracle
+  
 **🐍 Python & Libraries**
 - Python  
   - Pandas  
   - NumPy  
-  - Matplotlib  
+  - Matplotlib
+ 
+    
 **📈 BI & Analytics**
 - ### 📈 Business Intelligence
 - Power BI: Data modeling, DAX (measures & calculated columns), interactive dashboards, report automation, data visualization  
-- Power BI Advanced Features: Data Gateway, Row-Level Security (RLS), Object-Level Security (OLS), deployment pipelines  
+- Power BI Advanced Features: Data Gateway, Row-Level Security (RLS), Object-Level Security (OLS), deployment pipelines
+
+  
 **🏗️ Data Engineering**
 - Microsoft Fabric 
   - Data Pipelines  
@@ -28,6 +33,8 @@ Designed and deployed a Power BI dashboard to track weekly sales trends, integra
   - Data Warehouse
   - automation 
 ---
+
+
 ### 🚀 What I Do
 - Clean, transform, and model messy data using Excel, Google Sheets, Python, and SQL  
 - Build automated ETL pipelines and deploy them with Microsoft Fabric  
@@ -36,4 +43,3 @@ Designed and deployed a Power BI dashboard to track weekly sales trends, integra
 - Automate repetitive tasks to save time and improve accuracy  
 - Support business decision-making through storytelling with data
   
-📫 **Open to opportunities, collaborations, and data projects**
