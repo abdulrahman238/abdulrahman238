@@ -1,20 +1,60 @@
-##Abdul Rahman Kassim 👋
-Data Analyst | Data Engineer | Power BI, SQL, Excel, Microsoft Fabric 
-I’m a mid-level Data Analyst with hands-on experience delivering end-to-end analytics solutions. I specialize in transforming raw and messy data into actionable business insights, building automated reports, and designing interactive dashboards that support operational and strategic decisions.
-I work across Excel, SQL, Python, Power BI, and Microsoft Fabric to clean, model, and analyze data. I communicate findings clearly to both technical and non-technical stakeholders, turning numbers into business impact.
+# Abdul Rahman Kassim 👋
+**Data Analyst | Data Engineer | Power BI, SQL, Excel, Microsoft Fabric**
 
-### 🧰 Tools & Technologies
+---
 
-Analytics & BI: Power BI (DAX, KPIs, RLS, OLS, Data Gateway), dashboards, reporting automation
-Data Processing: Excel (Pivot Tables, VLOOKUP/XLOOKUP, IF logic, Conditional Formatting, Power Query), Google Sheets, Python (Pandas, NumPy, Matplotlib)
-Databases & SQL: SQL, MySQL, PostgreSQL, Oracle
-Data Engineering: Microsoft Fabric, Lakehouse, Data Pipelines, ETL workflows, Data Warehousing
+## 💡 About Me
+I’m a **mid-level Data Analyst** with hands-on experience delivering **end-to-end analytics solutions**. I specialize in transforming raw and messy data into **actionable business insights**, building automated reports, and designing **interactive dashboards** that support both operational and strategic decisions.
 
-### 🚀 What I Do
-- Clean, transform, and model messy data using Excel, Google Sheets, Python, and SQL  
-- Build automated ETL pipelines and deploy them with Microsoft Fabric  
-- Design and maintain dashboards in Power BI with secure access (RLS, OLS, Data Gateway)  
-- Analyze data and create reports that turn raw numbers into actionable insights  
-- Automate repetitive tasks to save time and improve accuracy  
-- Support business decision-making through storytelling with data
-  
+I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric** to clean, model, and analyze data. I communicate findings clearly to both technical and non-technical stakeholders, turning numbers into **measurable business impact**.
+
+---
+
+## 🧰 Tools & Technologies
+- **Analytics & BI:** Power BI (DAX, KPIs, RLS, OLS, Data Gateway), dashboards, report automation  
+- **Data Processing:** Excel (Pivot Tables, VLOOKUP/XLOOKUP, IF logic, Conditional Formatting, Power Query), Google Sheets, Python (Pandas, NumPy, Matplotlib)  
+- **Databases & SQL:** SQL, MySQL, PostgreSQL, Oracle  
+- **Data Engineering:** Microsoft Fabric, Lakehouse, Data Pipelines, ETL workflows, Data Warehousing  
+
+---
+
+## 🚀 Key Achievements & Responsibilities
+- Cleaned, transformed, and modeled **messy datasets** to create analysis-ready tables  
+- Built **automated ETL pipelines** using Microsoft Fabric, reducing manual reporting by 80%  
+- Designed and maintained **interactive Power BI dashboards** with secure access (RLS, OLS, Data Gateway)  
+- Analyzed data and produced **actionable insights** that influenced business decisions  
+- Automated repetitive reporting tasks, saving **~10 hours per week** for management  
+- Presented insights clearly to stakeholders, turning data into **strategic actions**  
+
+---
+
+## 📂 Featured Projects
+
+### 1️⃣ UK Train Data Analysis – Power BI | DAX | Power Query
+- Cleaned and transformed **35,000+ ticket records**  
+- Built a **Power BI dashboard** analyzing revenue, travel patterns, and on-time performance  
+- Reduced reporting time from **3 hours → 20 minutes**  
+- Delivered actionable insights for **peak travel hours, ticket pricing, and operational efficiency**  
+
+**Repository Link:** [Add repo link]  
+**Screenshots:** ![Dashboard1](link) ![Dashboard2](link)  
+
+---
+
+### 2️⃣ Customer Churn Analysis – SQL | Python | Power BI
+- Analyzed customer behavior to identify churn patterns and high-risk segments  
+- Developed dashboards and KPIs to track retention metrics and revenue impact  
+- Automated reporting and highlighted **opportunities for targeted retention strategies**  
+
+**Repository Link:** [Add repo link]  
+
+---
+
+## 🔥 Why Hire Me
+- Strong **mid-level analytics experience** with end-to-end project ownership  
+- Proven ability to **transform data into actionable insights** that support business decisions  
+- Comfortable working across **multiple tools and technologies** to solve complex problems  
+- Clear communicator who can present **technical findings to non-technical stakeholders**  
+
+---
+
