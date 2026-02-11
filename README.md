@@ -14,7 +14,9 @@ I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric** to clean, m
 - **Analytics & BI:** Power BI (DAX, KPIs, RLS, OLS, Data Gateway), dashboards, report automation  
 - **Data Processing:** Excel (Pivot Tables, VLOOKUP/XLOOKUP, IF logic, Conditional Formatting, Power Query), Google Sheets, Python (Pandas, NumPy, Matplotlib)  
 - **Databases & SQL:** SQL, MySQL, PostgreSQL, Oracle  
-- **Data Engineering:** Microsoft Fabric, Lakehouse, Data Pipelines, ETL workflows, Data Warehousing  
+- **Data Engineering:** Microsoft Fabric, Lakehouse, Data Pipelines, ETL workflows, Data Warehousing
+- Aws
+- Linux Basics
 
 ---
 
