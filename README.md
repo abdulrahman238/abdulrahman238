@@ -40,12 +40,12 @@ I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric** to clean, m
 
 ---
 
-### 2️⃣ Customer Churn Analysis – SQL | Python | Power BI
+### 2️⃣ Customer Churn Analysis – Power BI
 - Analyzed customer behavior to identify churn patterns and high-risk segments  
 - Developed dashboards and KPIs to track retention metrics and revenue impact  
 - Automated reporting and highlighted **opportunities for targeted retention strategies**  
 
-**Repository Link:** [Add repo link]  
+**Repository Link:** https://github.com/abdulrahman238/Maven-Roasters-Sales-Analysis--Power-BI.git
 
 ## 🔥 Why Hire Me
 - Strong **mid-level analytics experience** with end-to-end project ownership  
