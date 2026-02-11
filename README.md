@@ -38,7 +38,6 @@ I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric** to clean, m
 
 **Repository Link:** https://github.com/abdulrahman238/Train-Ticket-Insights.git
 
-**Screenshots:** ![Dashboard1](https://github.com/abdulrahman238/Train-Ticket-Insights.git)
 ---
 
 ### 2️⃣ Customer Churn Analysis – SQL | Python | Power BI
@@ -47,8 +46,6 @@ I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric** to clean, m
 - Automated reporting and highlighted **opportunities for targeted retention strategies**  
 
 **Repository Link:** [Add repo link]  
-
----
 
 ## 🔥 Why Hire Me
 - Strong **mid-level analytics experience** with end-to-end project ownership  
