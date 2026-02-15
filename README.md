@@ -1,6 +1,5 @@
 # Abdul Rahman Kassim 👋
 **Data Analyst | Data Engineer | Power BI, SQL, Excel, Microsoft Fabric , Aws, Linix basics**
-
 ---
 
 ## 💡 About Me
@@ -9,6 +8,11 @@ I’m a Data Analyst with hands-on experience delivering **end-to-end analytics 
 I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric** to clean, model, and analyze data. I communicate findings clearly to both technical and non-technical stakeholders, turning numbers into **measurable business impact**.
 
 ---
+
+## 📂 Featured Projects
+links to my Projects Repositories: https://github.com/abdulrahman238?tab=repositories
+
+
 
 ## 🧰 Tools & Technologies
 - **Analytics & BI:** Power BI (DAX, KPIs, RLS, OLS, Data Gateway), dashboards, report automation  
@@ -30,8 +34,6 @@ I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric** to clean, m
 
 ---
 
-## 📂 Featured Projects
-links to my Projects Repositories: https://github.com/abdulrahman238?tab=repositories
 
 
 
