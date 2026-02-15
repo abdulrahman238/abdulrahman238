@@ -4,7 +4,7 @@
 ---
 
 ## 💡 About Me
-I’m a **mid-level Data Analyst** with hands-on experience delivering **end-to-end analytics solutions**. I specialize in transforming raw and messy data into **actionable business insights**, building automated reports, and designing **interactive dashboards** that support both operational and strategic decisions.
+I’m a Data Analyst with hands-on experience delivering **end-to-end analytics solutions**. I specialize in transforming raw and messy data into **actionable business insights**, building automated reports, and designing **interactive dashboards** that support both operational and strategic decisions.
 
 I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric** to clean, model, and analyze data. I communicate findings clearly to both technical and non-technical stakeholders, turning numbers into **measurable business impact**.
 
