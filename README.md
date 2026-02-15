@@ -33,10 +33,10 @@ I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric** to clean, m
 ## 📂 Featured Projects
 links to my Projects Repositories: https://github.com/abdulrahman238?tab=repositories
 
-### 1️⃣ UK Train Data Analysis – Power BI | DAX | Power Query
--
+
+
 ## 🔥 Why Hire Me
-- Strong **mid-level analytics experience** with end-to-end project ownership  
+- Strong  analytics experience with end-to-end project ownership  
 - Proven ability to **transform data into actionable insights** that support business decisions  
 - Comfortable working across **multiple tools and technologies** to solve complex problems  
 - Clear communicator who can present **technical findings to non-technical stakeholders**  
