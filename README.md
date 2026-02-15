@@ -31,24 +31,10 @@ I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric** to clean, m
 ---
 
 ## 📂 Featured Projects
+links to my Projects Repositories: https://github.com/abdulrahman238?tab=repositories
 
 ### 1️⃣ UK Train Data Analysis – Power BI | DAX | Power Query
-- Cleaned and transformed **35,000+ ticket records**  
-- Built a **Power BI dashboard** analyzing revenue, travel patterns, and on-time performance  
-- Reduced reporting time from **3 hours → 20 minutes**  
-- Delivered actionable insights for **peak travel hours, ticket pricing, and operational efficiency**  
-
-**Repository Link:** https://github.com/abdulrahman238/Train-Ticket-Insights.git
-
----
-
-### 2️⃣ Customer Churn Analysis – Power BI
-- Analyzed customer behavior to identify churn patterns and high-risk segments  
-- Developed dashboards and KPIs to track retention metrics and revenue impact  
-- Automated reporting and highlighted **opportunities for targeted retention strategies**  
-
-**Repository Link:** https://github.com/abdulrahman238/Maven-Roasters-Sales-Analysis--Power-BI.git
-
+-
 ## 🔥 Why Hire Me
 - Strong **mid-level analytics experience** with end-to-end project ownership  
 - Proven ability to **transform data into actionable insights** that support business decisions  
