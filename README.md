@@ -1,7 +1,8 @@
 # Abdul Rahman Kassim 👋
 **Data Analyst | Data Engineer**
 ---
-**Excel, Power BI, SQL, Excel, Microsoft Fabric , Aws, Linix basics**
+**Excel, SQL, Power BI, Python,
+Microsoft Fabric , Aws, Linix basics**
 ---
 
 ## 💡 About Me
