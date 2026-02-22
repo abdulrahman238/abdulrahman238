@@ -20,7 +20,7 @@ links to my Projects Repositories: https://github.com/abdulrahman238?tab=reposit
 ## 🧰 Tools & Technologies
 - **Analytics & BI:** Power BI (DAX, KPIs, RLS, OLS, Data Gateway), dashboards, report automation  
 - **Data Processing:** Excel (Pivot Tables, VLOOKUP/XLOOKUP, IF logic, Conditional Formatting, Power Query),
-- Google Sheets,
+- Execl, Google Sheets,
 - Python (Pandas, NumPy, Matplotlib)  
 - **Databases & SQL:** SQL, MySQL, PostgreSQL, Oracle  
 - **Data Engineering:** Microsoft Fabric, Lakehouse, Data Pipelines, ETL workflows, Data Warehousing
