@@ -2,7 +2,7 @@
 **Data Analyst | Data Engineer**
 ---
 **Excel, SQL, Power BI, Python,
-Microsoft Fabric , Aws, Linix basics**
+Microsoft Fabric Ecosystem (Pipelines ,Data warehouse, Lakehouse,Semantic Model) Aws, Linix basics**
 ---
 
 ## 💡 About Me
