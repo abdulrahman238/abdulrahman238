@@ -26,7 +26,9 @@ links to my Projects Repositories: https://github.com/abdulrahman238?tab=reposit
 - **Data Engineering:** Microsoft Fabric, Lakehouse, Data Pipelines, ETL workflows, Data Warehousing
 - Aws
 - Linux Basics
-
+** OThers**
+- Mongodb Query
+- Github 
 ---
 
 ## 🚀 Key Achievements & Responsibilities
