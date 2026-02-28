@@ -1,5 +1,5 @@
 # Abdul Rahman Kassim 👋
-**Data Analyst | Analytics & BI | Power BI • SQL • Excel • Microsoft Fabric**
+**Data Analyst | Analytics & BI | Power BI • SQL • Excel • Python**
 
 ---
 
