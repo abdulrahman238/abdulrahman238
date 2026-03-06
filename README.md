@@ -60,8 +60,8 @@ I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric**, and I’m 
 ---
 
 ## 🎓 CERTIFICATIONS
-- 🏅 **Microsoft Certified: Power BI Data Analyst Associate**  
-- 🏅 **Power BI Data Analyst Training – NEMISA**  
+- 🏅 **Microsoft Certified: Power BI Data Analyst Associate  – NEMISA**  
+- 🏅 **Jomacs**  
 
 ---
 
