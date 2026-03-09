@@ -12,7 +12,7 @@
 ---
 
 ## 💡 ABOUT ME
-I’m a **Data Analyst** with hands-on experience delivering **end-to-end analytics solutions**.  
+I’m a **Data Analyst And Data Engineer** with hands-on experience delivering **end-to-end analytics solutions**.  
 I turn **raw, messy data** into **clear business insights**, build **automated reports**, and design **interactive dashboards** that support **real decision-making**.
 
 I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric**, and I’m comfortable explaining insights to **both technical and non-technical stakeholders**.
