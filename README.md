@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 
+## 🚀 What I do Most
 - ⏱️ **Reduced reporting time from 3 hours → 20 minutes** using Power BI automation  
 - 📊 **Cleaned & modeled 35,000+ records** into analysis-ready datasets  
 - 🔁 **Cut manual reporting by 80%** through ETL pipelines in Microsoft Fabric  
