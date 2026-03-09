@@ -65,8 +65,4 @@ I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric**, and I’m 
 
 ---
 
-## 🔥 WHY HIRE ME
-- ✅ **End-to-end ownership** of analytics projects  
-- ✅ Proven ability to **turn data into business decisions**  
-- ✅ Strong **Power BI + SQL + Fabric** combination  
-- ✅ Clear communicator with non-technical stakeholders  
+
