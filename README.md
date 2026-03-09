@@ -1,10 +1,10 @@
 # 👋 ABDUL RAHMAN KASSIM
-## DATA ANALYST | ANALYTICS & BI
-### Power BI • SQL • Excel • Python
+## DATA ANALYST | DATA ENGINEER
+### EXCEL, SQL, POWER BI, PYTHON, AWS,  MICROSOFT FABRIC, LINUX
 
 ---
 
-## 🚀 IMPACT AT A GLANCE
+## 🚀 
 - ⏱️ **Reduced reporting time from 3 hours → 20 minutes** using Power BI automation  
 - 📊 **Cleaned & modeled 35,000+ records** into analysis-ready datasets  
 - 🔁 **Cut manual reporting by 80%** through ETL pipelines in Microsoft Fabric  
