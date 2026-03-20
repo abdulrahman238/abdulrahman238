@@ -55,7 +55,7 @@ I work across **Excel, SQL, Python, Power BI, and Microsoft Fabric**, and I’m 
 ### ⚙️ Other
 - GitHub  
 - **AWS**  
-- **Linux (basics)**  
+- **Linux**  
 
 ---
 
